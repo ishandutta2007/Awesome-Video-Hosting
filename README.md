@@ -29,101 +29,35 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Vimeo](https://vimeo.com/)**  
-  Video hosting, management, collaboration, live streaming, video marketing, OTT, and video-on-demand platform for businesses, creators, and organizations.
-
-- **[Vimeo Enterprise](https://vimeo.com/enterprise)**  
-  Enterprise video platform providing secure hosting, collaboration, live events, analytics, integrations, and organizational video management.
-
-- **[Wistia](https://wistia.com/)**  
-  Business-focused video hosting and marketing platform with customizable players, video analytics, lead generation, webinars, and video engagement tools.
-
-- **[Brightcove](https://www.brightcove.com/)**  
-  Enterprise video platform providing video hosting, OTT, live streaming, monetization, analytics, content management, and video delivery.
-
-- **[Mux](https://www.mux.com/)**  
-  Developer-focused video infrastructure platform providing video upload, encoding, storage, streaming, playback, live video, and video analytics through APIs.
-
-- **[Kaltura](https://corp.kaltura.com/)**  
-  Enterprise video platform supporting video management, education, corporate communications, virtual events, webinars, OTT, and live streaming.
-
-- **[Cloudflare Stream](https://www.cloudflare.com/developer-platform/products/cloudflare-stream/)**  
-  Managed video infrastructure for uploading, storing, encoding, and delivering live and on-demand video through Cloudflare's global network.
-
-- **[Spotlightr](https://spotlightr.com/)**  
-  Video hosting and marketing platform focused on secure video delivery, customizable players, analytics, and online-course/business video use cases.
-
-- **[JW Player](https://www.jwplayer.com/)**  
-  Video platform providing hosting, streaming, playback, monetization, advertising, analytics, and OTT infrastructure.
-
-- **[Dacast](https://www.dacast.com/)**  
-  Online video platform for live streaming and video-on-demand hosting, monetization, broadcasting, and video delivery.
-
-- **[Bunny Stream](https://bunny.net/stream/)**  
-  Video streaming infrastructure integrated with Bunny's storage and global CDN, providing encoding, video delivery, player functionality, and content protection.
-
-- **[Panopto](https://www.panopto.com/)**  
-  Enterprise video management and learning-video platform for universities, businesses, training, lectures, meetings, and internal knowledge.
-
-- **[Vidyard](https://www.vidyard.com/)**  
-  Business video platform focused on video hosting, sales enablement, marketing, personalization, analytics, and video creation.
-
-- **[SproutVideo](https://sproutvideo.com/)**  
-  Video hosting platform offering privacy controls, customizable players, video security, analytics, live streaming, and video-on-demand.
-
-- **[Uscreen](https://www.uscreen.tv/)**  
-  Video monetization and OTT platform for creators and businesses building subscription-based video services.
-
-- **[Wowza](https://www.wowza.com/)**  
-  Video streaming infrastructure platform providing live streaming, transcoding, delivery, and streaming-server technology.
-
-- **[Wowza Video](https://www.wowza.com/products/video)**  
-  Managed video streaming platform supporting live streaming, video-on-demand, transcoding, playback, and global delivery.
-
-- **[IBM Video Streaming](https://www.ibm.com/products/video-streaming)**  
-  Enterprise video streaming and live-video platform for internal communications, events, training, and corporate video.
-
-- **[Panopto Video Platform](https://www.panopto.com/features/video-platform/)**  
-  Secure enterprise video management platform with recording, search, live streaming, learning workflows, and integrations.
-
-- **[Dailymotion](https://www.dailymotion.com/)**  
-  Global video hosting and distribution platform supporting publishers, broadcasters, advertising, and video content delivery.
-
-- **[JW Platform](https://www.jwplayer.com/)**  
-  Video management, hosting, delivery, monetization, analytics, and playback infrastructure from JW Player.
-
-- **[StreamShark](https://streamshark.io/)**  
-  Live and on-demand video streaming platform providing event streaming, video delivery, and OTT capabilities.
-
-- **[Muvi](https://www.muvi.com/)**  
-  OTT and video streaming platform for launching branded video-on-demand, live streaming, subscription, and advertising services.
-
-- **[VPlayed](https://www.vplayed.com/)**  
-  OTT video platform for launching video-on-demand, live streaming, subscription, and monetized video services.
-
-- **[JW Player Streaming](https://www.jwplayer.com/)**  
-  Video infrastructure combining hosting, playback, live streaming, analytics, advertising, and content monetization.
-
-- **[Wowza](https://www.wowza.com/)**  
-  Streaming technology platform supporting live video, OTT delivery, transcoding, and real-time streaming workflows.
-
-- **[Cloudinary Video](https://cloudinary.com/products/video)**  
-  Cloud-based media platform providing video upload, transformation, optimization, encoding, delivery, and management.
-
-- **[ImageKit Video](https://imagekit.io/)**  
-  Media delivery platform supporting video transformation, optimization, adaptive streaming, and CDN-based delivery.
-
-- **[AWS Elemental Media Services](https://aws.amazon.com/media-services/)**  
-  Cloud video infrastructure for live encoding, packaging, processing, and distribution.
-
-- **[Amazon IVS](https://aws.amazon.com/ivs/)**  
-  Managed live-video streaming service designed for interactive applications and real-time audience experiences.
-
-- **[Google Cloud Media CDN](https://cloud.google.com/media-cdn)**  
-  CDN infrastructure optimized for large-scale media and video delivery.
-
-- **[Azure Media Services](https://azure.microsoft.com/)**  
-  Microsoft's former cloud media-processing platform; organizations should evaluate current Azure-native alternatives for new deployments.
+| Platform | Description | Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Vimeo](https://vimeo.com/)** | Video hosting, management, collaboration, live streaming, video marketing, and VOD platform. | Starts at $12/month (Starter tier, billed annually) or $20/month (billed monthly) | Free forever plan with 1 GB lifetime total storage (up to 30 min recording per video); 30-day free trial for paid plans. |
+| **[Vimeo Enterprise](https://vimeo.com/enterprise)** | Enterprise video platform providing secure hosting, corporate communications, SSO, live events, and advanced analytics. | Starts at $65/seat/month (Advanced plan) / custom enterprise quotes (starts ~$7,500/year) | 30-day enterprise evaluation / pilot available upon sales request. |
+| **[Wistia](https://wistia.com/)** | Business video marketing and hosting platform with customizable players, lead capture, heatmaps, and webinars. | Starts at $19/month (Plus tier, billed annually) or $24/month (billed monthly) | Free forever plan with 25 GB storage (up to 10 videos), 200 GB monthly bandwidth, and 1 user seat. |
+| **[Brightcove](https://www.brightcove.com/)** | Enterprise video cloud platform providing OTT, live broadcasting, monetization, CMS, and video delivery. | Starts at $499/month (Starter enterprise tier, billed annually) | 30-day free trial with access to upload, transcoding, player customization, and analytics. |
+| **[Mux](https://www.mux.com/)** | Developer-first video infrastructure API for automated encoding, live streaming, storage, and playback analytics. | Starts at $0 pay-as-you-go ($0.005/min delivery, $0.003/min storage, $0.04/min encoding; optional $20/month starter pack) | Free forever plan with 10 stored videos and 100,000 minutes of video delivery per month (no credit card required). |
+| **[Kaltura](https://corp.kaltura.com/)** | Enterprise video platform supporting video management, education, virtual classrooms, corporate communications, and OTT. | Starts at $150/month (Webinars/Events plan) or $500+/month (MediaSpace VOD portal) | 30-day free trial with $100 worth of usage credits and 10 GB hosting/bandwidth. |
+| **[Cloudflare Stream](https://www.cloudflare.com/developer-platform/products/cloudflare-stream/)** | Video streaming platform with global edge encoding, storage, and player delivery on Cloudflare's network. | Starts at $5/month (includes 1,000 minutes of video storage; $1 per 1,000 minutes streamed overage) | Free Cloudflare account tier includes 30-day trial / $5 initial usage credit for Stream. |
+| **[Spotlightr](https://spotlightr.com/)** | Video hosting and marketing solution with secure video encryption, CTAs, and course analytics. | Starts at $13/month (Light tier, billed annually) or $19/month (billed monthly) | 14-day free trial with 50 GB storage and 200 GB bandwidth (no credit card required). |
+| **[JW Player](https://www.jwplayer.com/)** | Video platform providing HTML5 playback, multi-bitrate HLS/DASH streaming, advertising, and OTT infrastructure. | Starts at $10/month (Starter tier, includes HTML5 player and basic hosting) | 14-day free trial with 25 GB hosting and 75 GB streaming bandwidth. |
+| **[Dacast](https://www.dacast.com/)** | Online video platform for live event broadcasting, video-on-demand hosting, and paywall monetization. | Starts at $37/month (Starter tier, billed annually) or $39/month (billed monthly) | 14-day free trial with 10 GB bandwidth and 2 GB storage (extendable by 7 days upon request). |
+| **[Bunny Stream](https://bunny.net/stream/)** | Cost-effective video streaming CDN with built-in transcoding, player, DRM, and token security. | Starts at $1.00/month minimum account fee ($0.01/GB storage + $0.005/GB CDN delivery) | 14-day free trial with $1.00 credit (up to 1,000 GB CDN bandwidth and 10 GB storage). |
+| **[Panopto](https://www.panopto.com/)** | Enterprise and higher-ed video management platform for lecture capture, training, and meeting recording. | Starts at $7,500/year (~$625/month for institutional tier); Panopto Express recorder is $0 | Free forever tier via Panopto Express (unlimited recording time, no watermark); 14-day enterprise trial on demo request. |
+| **[Vidyard](https://www.vidyard.com/)** | Business video platform built for sales prospecting, video messaging, marketing automation, and video hosting. | Starts at $59/user/month (Starter tier, billed annually) or $89/user/month (billed monthly) | Free forever plan with up to 25 video uploads and 30-minute recording duration per video. |
+| **[SproutVideo](https://sproutvideo.com/)** | Privacy-focused business video hosting with granular access controls, lead capture, and live streaming. | Starts at $10/month (Seed tier, includes 100 GB storage and 100 GB bandwidth) | 30-day free trial with full feature access and no credit card required. |
+| **[Uscreen](https://www.uscreen.tv/)** | All-in-one OTT video monetization and membership platform for subscription video services. | Starts at $49/month (Growth tier, billed annually) or $99/month + $1.99/paid member/month | 14-day free trial with complete platform, billing setup, and custom web player access. |
+| **[Wowza Video](https://www.wowza.com/products/video)** | Cloud video streaming infrastructure platform for ultra-low latency live streaming and VOD transcoding. | Starts at $25/month (Pay-As-You-Go: $2.50/stream hr, $0.10/viewer hr) or $130/month (Annual bundle) | 30-day free trial with 20 streaming hours, 200 GB bandwidth, and full API access. |
+| **[IBM Video Streaming](https://www.ibm.com/products/video-streaming)** | Cloud enterprise video streaming platform for corporate town halls, marketing webcasts, and internal video. | Starts at $137/month (Silver tier, 100 viewer hours, 5 channels, 1 TB storage) | 30-day free trial with 100 viewer hours, 1 broadcast channel, and 1 TB storage. |
+| **[Dailymotion Pro](https://www.dailymotion.com/)** | Professional video hosting, ad-monetization, custom HTML5 player, and OTT distribution platform. | Starts at $49/month (Starter tier) | Free forever consumer account (unlimited uploads, ad-supported); 14-day free trial for Dailymotion Pro. |
+| **[StreamShark](https://streamshark.io/)** | Live stream management and event broadcasting platform with enterprise security and multi-CDN delivery. | Starts at $159/month (Standard tier, billed annually) or $199/month (billed monthly) | 7-day free trial with 50 GB data transfer and 5 hours of live streaming. |
+| **[Muvi](https://www.muvi.com/)** | End-to-end OTT platform to launch white-label VOD, live streaming websites, and multi-device TV apps. | Starts at $199/month (Muvi Playout) or $399/month (Muvi One Standard) | 14-day free trial with complete access to white-label CMS, video player, and DRM controls. |
+| **[VPlayed](https://www.vplayed.com/)** | Self-hosted OTT streaming solution for web, mobile, and smart TVs with lifetime licensing. | Starts at ~$30,000 one-time license fee (custom-built, zero recurring monthly platform fees) | 14-day interactive sandbox demo and proof-of-concept environment upon request. |
+| **[Cloudinary Video](https://cloudinary.com/products/video)** | Media management platform for video uploading, AI transformations, transcoding, and global CDN delivery. | Starts at $89/month (Plus tier) | Free forever plan with 25 credits/month (~25 GB storage or 25 GB bandwidth or 25,000 video transformations). |
+| **[ImageKit Video](https://imagekit.io/)** | Real-time video optimization, adaptive bitrate (HLS/DASH) generation, and global CDN delivery network. | Starts at $9/month (Lite tier, includes 40 GB bandwidth) | Free forever plan with 20 GB bandwidth/month, 3 GB media storage, and 2 user seats. |
+| **[AWS Elemental MediaLive](https://aws.amazon.com/medialive/)** | Broadcast-grade live video processing and multi-bitrate packaging cloud infrastructure. | Starts at $0.015/minute ($0.90/hour for single-pipeline AVC inputs) / $0.0075/min for MediaConvert | 12-month AWS Free Tier includes 100 GB/month outbound bandwidth + $200 free trial credits for new accounts. |
+| **[Amazon IVS](https://aws.amazon.com/ivs/)** | Managed low-latency and real-time live streaming infrastructure designed for interactive audience apps. | Starts at $0.015/hour (Basic input) + $0.075/hour per viewer (SD output) | 12-month Free Tier with 5 hours of Basic video input and 100 hours of SD video output per month. |
+| **[Google Cloud Media CDN](https://cloud.google.com/media-cdn)** | Planetary-scale media and video caching infrastructure built on Google's YouTube network backbone. | Starts at $0.04/GB egress (North America/Europe) + $0.0075 per 10,000 HTTP/HTTPS requests | 90-day Google Cloud trial with $300 in credits applicable across all Media CDN workloads. |
+| **[Azure Media Services (Legacy / Ecosystem)](https://azure.microsoft.com/)** | Cloud video workflow services (migrated to partner ecosystems like MediaKind & Bitmovin). | Partner offerings start from $0.01/GB bandwidth & $0.015/min encoding | 30-day Azure Free Trial with $200 credits for deploying media partner infrastructure. |
 
 ## Open-Source GitHub Projects
 
